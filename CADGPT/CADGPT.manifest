@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"David Chew",
+	"description":	{
+		"":	"bruh"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
